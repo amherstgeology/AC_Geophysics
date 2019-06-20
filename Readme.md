@@ -1,4 +1,4 @@
-# Surface Earth Processes
+# Geophysics
 
 This git repository is used to distribute homework and interactive exercises for Geophysics using github classroom. 
 
